@@ -2,7 +2,7 @@ Hi there, I'm Caroline 👋
 -----------------------------
 
 <p>💻 Currently on my 2nd year of studying Applied Computer Science with specialization within programming</p>
-<p>🧠 Focusing on Python and React at the moment. I'm also working with Vanilla JavaScript, TypeScript, Java and MongoDB</p>
+<p>🧠 Focusing on Python and React at the moment. I'm also working with Vanilla JavaScript, TypeScript and Java</p>
 <p>⭐ I love to learn and to code! My goal is to develop and improve my skills<p>
 <p>🌍 Based in Oslo, Norway</p>
 
@@ -15,7 +15,7 @@ Connect with me 🤝
 Skills
 -----------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,java,py,mysql,mongodb,html,css,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,java,py,mysql,html,css,jquery,bootstrap)](https://skillicons.dev)
 
 
 Github Stats

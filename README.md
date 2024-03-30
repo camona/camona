@@ -2,7 +2,7 @@ Hi there, I'm Caroline 👋
 -----------------------------
 
 <p>💻 Currently on my 2nd year of studying Applied Computer Science with specialization within programming</p>
-<p>🧠 Focusing on Python and React at the moment. I'm also working with Vanilla JavaScript, TypeScript and Java</p>
+<p>🧠 Focusing on Python and React at the moment. I'm also working with TypeScript and Java</p>
 <p>⭐ I love to learn and to code! My goal is to develop and improve my skills<p>
 <p>🌍 Based in Oslo, Norway</p>
 
